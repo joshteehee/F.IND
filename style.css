@@ -1,0 +1,24 @@
+h1{
+	color: #2E4952; text-align: center; font-size: 100px;
+}
+body
+	{background: url(landscape-mountains-nature-lake.jpg) no-repeat center top fixed; 
+	background-size: cover
+	}
+p{
+	font-size: 25px;
+	font-weight: bold;
+	font-family: 'Lato';
+	color:#2E4952;
+}
+
+button{
+    background-color: #64B6AC; /* Green */
+    border: none;
+    color: #2E4952;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
